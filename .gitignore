@@ -1,0 +1,13 @@
+node_modules
+*.log
+*.aes
+.history
+.vscode
+env
+**/cypress/videos
+**/cypress/screenshots
+tests-report.json
+reports/
+package-lock.json
+log
+package-lock.json

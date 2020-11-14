@@ -1,0 +1,10 @@
+{
+    "baseUrl": "http://demo.applitools.com/",
+    "fixturesFolder": false,
+    "env": {
+        "APP_NAME": "tlcHackathonMasterV1.html",
+        "VERSION": 1
+    },
+    "defaultCommandTimeout": 60000,
+    "pageLoadTimeout": 120000
+}
