@@ -1,6 +1,6 @@
-# Applitools Holiday Hackathon (Kalpesh Chilka)
+# Applitools Holiday Shopping Hackathon (Kalpesh Chilka)
 
-My submission for the Applitools Holiday Hackathon.
+My submission for the Applitools Holiday Shopping Hackathon.
 
 ## Dependencies
 
@@ -19,3 +19,11 @@ To get started, please do the following:
 1. Clone this github repo locally
 
 2. To Run the Applitools test, please export your `APPLITOOLS_API_KEY`
+
+3. Install project dependencies by running command: `npm install`
+
+4. To Run the Applitools test on different App versions:
+* V1 production version - `npm run test:v1`
+* Dev-branch version - `npm run test:dev`
+* Final production version - `npm run test:v2`
+
